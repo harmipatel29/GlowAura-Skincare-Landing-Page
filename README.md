@@ -40,8 +40,7 @@ College students, young professionals, and skincare enthusiasts.
 - Body Font: Inter
 
 ## Figma Design Link
-
-https://www.figma.com/design/mxofjyhcZIqNpbjzKx47bt/GlowAura?node-id=0-1&t=olX8mu1IAkORTTAi-1
+https://www.figma.com/design/mxofjyhcZIqNpbjzKx47bt/GlowAura?node-id=0-1&t=8PIozBKeIk0ocI2J-1
 
 ## Screenshot
 
